@@ -179,12 +179,6 @@ export default function ResponseDetail() {
                                 </div>
                             )}
                         </div>
-
-                        {/* Footer info */}
-                        <div className="text-muted small mt-4">
-                            <i className="bi bi-info-circle me-2" />
-                            Vista de consulta. Los datos no pueden ser editados.
-                        </div>
                     </>
                 )}
             </div>
